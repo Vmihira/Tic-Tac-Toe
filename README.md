@@ -6,5 +6,5 @@ The objective of the game is to be the first player to get three of their marks 
 When a particular user wins the game, their appears a text on the page which displays the winner. It even displays the game as draw if either of the users win the game.
 
 This website is made using HTMl, Cascading Style Sheets(CSS) and JavaScript(JS). 
-Several styles are added to the oage using css such that it makes the page beautiful.
+Several styles are added to the page using css such that it makes the page beautiful.
 Java Script is used to make the page interactive with the users.
